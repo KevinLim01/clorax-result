@@ -1,1 +1,0 @@
-# clorax-result
